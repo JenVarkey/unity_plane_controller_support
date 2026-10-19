@@ -1,0 +1,482 @@
+Unity Editor version:    6000.6.4f1 (12bfff696524)
+Branch:                  6000.6/staging
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 15.7.7 (Build 24G720)
+Darwin version:          24.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Date:                    2026-10-18T04:15:19Z
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 99550)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 99552)
+VBCSCompiler prewarm took 18.02 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-jen" at "2026-10-18T04:15:19.083169Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/jen/Game Development Shit/rollaball/Prototype 1
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-jen
+-hubSessionId
+8bba4f15-4ea2-4574-9ae8-1f1401705e10
+-accessToken
+8N6C-kRY5A2BgK4nR2mm4meJrme9eaOQQ1v3foZYrjo001f
+Successfully changed project path to: /Users/jen/Game Development Shit/rollaball/Prototype 1
+/Users/jen/Game Development Shit/rollaball/Prototype 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8709448384]  Target information:
+
+Player connection [8709448384]  * "[IP] 10.0.0.133 [Port] 55504 [Flags] 2 [Guid] 980868742 [EditorId] 980868742 [Version] 1048832 [Id] OSXEditor(0,Jennys-Macbook-3.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8709448384] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8709448384] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              f6a77e8bc08946f5bd2bfbc5ac70654c
+  Correlation Id:          fcdd6ed9595a78e405a00fba65e62b38
+  External correlation Id: 9052483970392355623
+  Machine Id:              80FKuqTrS49mILUjzzJrs2CPCi8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-jen" (connect: 0.00s, validation: 0.00s, handshake: 0.31s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-jen-notifications" at "2026-10-18T04:15:19.39123Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token 8N6C-kRY5A...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 1376002576770-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.32s
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 58321ec0074d97627125dcc51d1f8562
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+[Package Manager] Connected to IPC stream "Upm-99549" after 0.2 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/jen/Game Development Shit/rollaball/Prototype 1Unity Data Store running and initialised
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.4f1 (12bfff696524)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jen/Game Development Shit/rollaball/Prototype 1/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M3 (high power)
+Metal devices available: 1
+0: Apple M3 (high power)
+Using device Apple M3 (high power)
+Initializing Metal device caps: Apple M3
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56549
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.4f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.4f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001642 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.772 seconds
+Domain Reload Profiling: 1140ms
+	BeginReloadAssembly (93ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (3ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (213ms)
+		LoadAssemblies (91ms)
+		TypeCache.Refresh (155ms)
+			TypeCache.ScanAssembly (143ms)
+		AnalyzeDomain (0ms)
+	FinalizeReload (773ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (59ms)
+			ProcessInitializeOnLoadMethodAttributes (519ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 59 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.navigation@2.0.14 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b)
+    com.unity.collab-proxy@2.13.6 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.1 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.inputsystem@2436e68c60c4)
+    com.unity.visualscripting@1.9.12 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.visualscripting@4edfcc09512f)
+    com.unity.searcher@4.9.5 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.profiling.core@8a49f7027d06)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.render-pipelines.universal@b0678dfc9e21)
+    com.unity.test-framework@1.8.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.test-framework@80f691d4262b)
+    com.unity.timeline@6.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.timeline@c56d56b0070b)
+    com.unity.ugui@2.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ugui@0727b404f3a0)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.render-pipelines.core@285af6b8c83f)
+    com.unity.shadergraph@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.shadergraph@58bcb150677d)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.graph-authoring@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.collections@10fff0607388)
+    com.unity.test-framework.performance@6.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.test-framework.performance@b6023decb532)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Starting: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/jen/Game Development Shit/rollaball/Prototype 1
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 0s255ms
+[685/899    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.24 seconds), 1 items updated, 899 evaluated
+AssetDatabase: script compilation time: 0.800395s
+Begin MonoManager ReloadAssembly
+Total cache size 220950788
+Total cache size after purge 220950788, took 00:00:00.1407794
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.552 seconds
+Domain Reload Profiling: 1085ms
+	BeginReloadAssembly (119ms)
+		DisableScriptedObjects (9ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (362ms)
+		LoadAssemblies (169ms)
+		TypeCache.Refresh (114ms)
+			TypeCache.ScanAssembly (104ms)
+		AnalyzeDomain (38ms)
+			BuildScriptInfoCaches (33ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (552ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (193ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Starting new worker id: 0 with log in /Users/jen/Game Development Shit/rollaball/Prototype 1/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=f04c958c57b4545cfbd47b70f765db7b): Total: 2.578 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1161 ms
+		Asset DB Callback time: managed=26 ms, native=5 ms
+		Scripting: domain reloads=1, domain reload time=553 ms, compile time=801 ms, other=29 ms
+		Project Asset Count: scripts=1386, non-scripts=2374
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 5.863ms
+	ApplyChangesToAssetFolders: 0.223ms
+	Scan: 367.348ms
+	Collect global state as custom dependencies: 9.367ms
+	CategorizeScriptCompilationAssets: 39.003ms
+	ProcessAssetsWithTransientArtifactChanges: 35.215ms
+	CategorizeAssets: 50.782ms
+	CompileScripts: 801.378ms
+	ImportOutOfDateAssets: 560.887ms (556.166ms without children)
+		ReloadNativeAssets: 0.239ms
+		UnloadImportedAssets: 2.825ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.369ms
+		ImportSchedulerStart: 1.287ms
+	PostProcessAllAssets: 26.596ms
+		MonoPostProcessAllAssets: 26.564ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 8.400ms
+			SyncVS.PostprocessSyncProject 6.098ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.952ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.919ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.453ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.325ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.289ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.141ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.135ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.110ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.082ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.070ms
+	UnloadStreamsBegin: 1.115ms
+	PersistCurrentRevisions: 0.081ms
+	GenerateScriptTypeHashes: 0.754ms
+	GenerateScriptTypeSerializationHashes: 1.419ms
+	Untracked: 678.293ms
+
+Application.AssetDatabase Initial Refresh End
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Scanning for USB devices : 0.022ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Prototype 1
+2026-10-17 21:15:24.893 Unity[99549:78754720] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc5727b1d0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Challenge 1/Challenge 1.unity'
+	Deserialize:            3.712 ms
+	Integration:            17.243 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.002 ms
+	Total Operation Time:   20.959 ms
+Unloading 6630 unused Assets / (7.6 MB). Loaded Objects now: 7735.
+Memory consumption went from 262.7 MB to 255.1 MB.
+Total: 8.107333 ms (FindLiveObjects: 0.511125 ms CreateObjectMapping: 0.139625 ms MarkObjects: 5.167584 ms  DeleteObjects: 2.204666 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+2026-10-17 21:15:24.948 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:24.948 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:24.949 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:24.949 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:24.949 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:24.949 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:24.949 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.390 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.397 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.398 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.398 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.398 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.398 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:25.398 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+[LAYOUT] About to save layout /Users/jen/Game Development Shit/rollaball/Prototype 1/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/jen/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+Worker ready: AssetImportWorkerHW0 0
+This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
+[Project] Loading completed in 6.475 seconds
+	Project init time: 				5.560 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.202 seconds
+		Asset Database init time: 		0.738 seconds
+		Global illumination init time: 	0.001 seconds
+		Assemblies load time: 			1.169 seconds
+		Unity extensions init time: 	0.025 seconds
+		Asset Database refresh time: 	2.579 seconds
+	Scene opening time: 			0.698 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1792296925518,"processId":99549,"projectLoad":6.474667000000001,"projectInit":5.560462125,"templateInit":0.0,"packageManagerInit":0.202479708,"assetDatabaseInit":0.738211375,"globalIlluminationInit":0.001413583,"assembliesLoad":1.16899125,"unityExtensionsInit":0.025138083,"assetDatabaseRefresh":2.579434583,"sceneOpening":0.697885792}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1792296925518,"processId":99549,"editorVersion":"6000.6.4f1 (12bfff696524)","branch":"6000.6/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+GPU Resident Drawer created.
+Created GICache directory at /Users/jen/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.008s, timestamps: [6.488 - 6.496]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "8N6C-kRY"... (expires: 2026-10-18T06:01:16Z)
+[Licensing::Client] Successfully resolved entitlement details
+2026-10-17 21:15:32.797 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:15:32.799 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+TrimDiskCacheJob: Current cache size 0mb
+
+Asset Pipeline Refresh (id=87989a988744b4663b905e7c86e39e6e): Total: 0.325 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=322 ms
+		Asset DB Callback time: managed=0 ms, native=2 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1386, non-scripts=2374
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.191ms
+	InvokePackagesCallback: 2.519ms
+	ApplyChangesToAssetFolders: 0.394ms
+	Scan: 232.687ms
+	Collect global state as custom dependencies: 1.038ms
+	OnSourceAssetsModified: 0.119ms
+	ProcessAssetsWithTransientArtifactChanges: 0.234ms
+	CategorizeAssets: 58.241ms
+	ImportOutOfDateAssets: 1.864ms (0.279ms without children)
+		UnloadImportedAssets: 0.054ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.264ms
+		ImportSchedulerStart: 1.229ms
+	GatherAllCurrentPrimaryImportResultRevisions: 1.135ms
+	UnloadStreamsBegin: 9.013ms
+	PersistCurrentRevisions: 0.081ms
+	Untracked: 15.103ms
+
+Asset Pipeline Refresh (id=78eef32e8196f4d8badea3780224c131): Total: 0.123 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+2026-10-17 21:21:47.237 Unity[99549:78754720] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x1105965e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-10-17 21:22:19.594 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:22:19.596 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:22:20.282 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:22:20.285 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:22:21.744 Unity[99549:78754720] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x1308eef10 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Starting new worker id: 1 with log in /Users/jen/Game Development Shit/rollaball/Prototype 1/Logs/AssetImportWorkerHW1.log
+[Worker0] Imported GUID: 052faaac586de48259a63d0c4782560b - Path: Assets/InputSystem_Actions.inputactions - Importer: PreviewImporter -> (ImportResultId: '2bfa7da13d34a4c26086be52890a6dd0') in 0.069187583 seconds
+Worker ready: AssetImportWorkerHW1 1
+2026-10-17 21:22:40.659 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-17 21:22:40.663 Unity[99549:78754720] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Asset Pipeline Refresh (id=19ff0e9cd899b4d8aa323ec15b2ff5ee): Total: 0.173 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=e5430ed78fb1b434c860b5280fca1419): Total: 0.169 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=98b78b42b5b0241899953a801c496c80): Total: 0.227 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=46865469eb2ce4156ae47a539acdbe14): Total: 0.195 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+2026-10-17 22:00:14.380 Unity[99549:78754720] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x130b99ae0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.025 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=fbca98c3638fa42fe96ea518a4bb0b86): Total: 0.243 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 052faaac586de48259a63d0c4782560b - Path: Assets/InputSystem_Actions.inputactions' with importer (ScriptedImporter : Unity.InputSystem:UnityEngine.InputSystem.Editor:InputActionImporter)
+Imported 'GUID: 052faaac586de48259a63d0c4782560b' -> (Import Result ID: '572ddfa0a1fe1fc707c727de8f855dc0') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dcb6ae403c8fe03f5af0556232153a1d DependenciesID=89f68301c5d9c296fbce114f768575fe StaticDependenciesID=cc173e59e87cf04c9890491e4a4587f6 
+Asset Pipeline Refresh (id=e9f582209982f4cba991b18bb295ff0f): Total: 0.095 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+MonoPathRemapper: Attempts to remap: 39631; Successful remaps: 18844
+Thread 0xc72053000 may have been prematurely finalized
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout /Users/jen/Game Development Shit/rollaball/Prototype 1/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/jen/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+Thread 0xc72987000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Thread 0x16e677000 may have been prematurely finalized
+Thread 0x16e81b000 may have been prematurely finalized
+Thread 0x16e9bf000 may have been prematurely finalized
+Thread 0x16e78f000 may have been prematurely finalized
+Thread 0x16e703000 may have been prematurely finalized
+Thread 0x16e933000 may have been prematurely finalized
+Thread 0x16e8a7000 may have been prematurely finalized
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-jen-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-jen channel disconnected successfully.
+Shut down UDS service system complete
+Thread 0xc3bbe7000 may have been prematurely finalized
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+debugger-agent: Unable to listen on 84
+VBCSCompilerPreWarmer: requested VBCSCompiler shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1792299622385,"processId":99549,"allocatedMemory":14250248,"memoryLabels":[{"Default":201251},{"Permanent":15672},{"Thread":1056776},{"Manager":2328918},{"VertexData":8},{"Geometry":408},{"Texture":24},{"Shader":855715},{"Material":212},{"GfxDevice":45384},{"GfxThread":3520},{"Animation":968},{"Audio":1896},{"FreeType":8},{"FontEngine":736},{"Physics":2002},{"Physics2D":16},{"Serialization":33056},{"Input":43216},{"JobScheduler":448},{"TextLib":17412},{"Mono":56},{"MonoCode":72},{"ScriptingNativeRuntime":155024},{"BaseObject":48904},{"Resource":1460},{"Renderer":2744},{"Transform":4693},{"File":7577},{"WebCam":32},{"Culling":32},{"Terrain":11346},{"Wind":24},{"String":578877},{"StaticString":3808},{"Utility":2691200},{"PoolAlloc":2584},{"AI":80},{"TypeTree":17293},{"ScriptManager":12656},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7240},{"Director":8288},{"CloudService":8016},{"WebRequest":4540},{"VR":49426},{"SceneManager":616},{"Video":2112},{"LazyScriptCache":32},{"NativeArray":936},{"Camera":1177},{"Secure":10105},{"SerializationCache":9704},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Baselib":16},{"Analytics":568},{"Hierarchy":1492},{"UIElements":40},{"CoreStats":14536},{"Identifiers":7152},{"Gui":281080},{"EditorUtility":616027},{"VersionControl":8},{"Undo":939},{"AssetDatabase":4670931},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":36969},{"Upm":1788},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"HubClient":848},{"LocalIPC":202},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3205},{"Windowing":416},{"Licensing":992},{"AssetReference":32},{"IPCStream":7003}]}

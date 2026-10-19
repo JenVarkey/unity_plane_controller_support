@@ -1,0 +1,1165 @@
+Unity Editor version:    6000.6.4f1 (12bfff696524)
+Branch:                  6000.6/staging
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 15.7.7 (Build 24G720)
+Darwin version:          24.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Date:                    2026-10-18T23:02:07Z
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 24404)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 24406)
+VBCSCompiler prewarm took 15.85 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-jen" at "2026-10-18T23:02:07.295104Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/jen/Game Development Shit/rollaball/Prototype 1
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-jen
+-hubSessionId
+8bba4f15-4ea2-4574-9ae8-1f1401705e10
+-accessToken
+J4yUHnJqSR9AzOfiH4CG-u3RNUmOls1EqCJQXa6Fogo001f
+Successfully changed project path to: /Users/jen/Game Development Shit/rollaball/Prototype 1
+/Users/jen/Game Development Shit/rollaball/Prototype 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8709448384]  Target information:
+
+Player connection [8709448384]  * "[IP] 10.18.131.2 [Port] 55504 [Flags] 2 [Guid] 802821378 [EditorId] 802821378 [Version] 1048832 [Id] OSXEditor(0,Jennys-Macbook-3.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8709448384] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8709448384] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              e75443726542420487bb893f44076baa
+  Correlation Id:          fcdd6ed9595a78e405a00fba65e62b38
+  External correlation Id: 3748938412337261264
+  Machine Id:              80FKuqTrS49mILUjzzJrs2CPCi8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-jen" (connect: 0.00s, validation: 0.00s, handshake: 0.28s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-jen-notifications" at "2026-10-18T23:02:07.579959Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token J4yUHnJqSR...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 1376002576770-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.29s
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 58321ec0074d97627125dcc51d1f8562
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+[Package Manager] Connected to IPC stream "Upm-24403" after 0.2 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/jen/Game Development Shit/rollaball/Prototype 1Unity Data Store running and initialised
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.4f1 (12bfff696524)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jen/Game Development Shit/rollaball/Prototype 1/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M3 (high power)
+Metal devices available: 1
+0: Apple M3 (high power)
+Using device Apple M3 (high power)
+Initializing Metal device caps: Apple M3
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56403
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.4f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.4f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001458 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.751 seconds
+Domain Reload Profiling: 1120ms
+	BeginReloadAssembly (90ms)
+		CreateAndSetChildDomain (5ms)
+	RebuildCommonClasses (3ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (221ms)
+		LoadAssemblies (86ms)
+		TypeCache.Refresh (161ms)
+			TypeCache.ScanAssembly (148ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (752ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (58ms)
+			ProcessInitializeOnLoadMethodAttributes (508ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 59 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.navigation@2.0.14 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b)
+    com.unity.collab-proxy@2.13.6 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.1 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.inputsystem@2436e68c60c4)
+    com.unity.visualscripting@1.9.12 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.visualscripting@4edfcc09512f)
+    com.unity.searcher@4.9.5 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.profiling.core@8a49f7027d06)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.render-pipelines.universal@b0678dfc9e21)
+    com.unity.test-framework@1.8.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.test-framework@80f691d4262b)
+    com.unity.timeline@6.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.timeline@c56d56b0070b)
+    com.unity.ugui@2.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ugui@0727b404f3a0)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.render-pipelines.core@285af6b8c83f)
+    com.unity.shadergraph@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.shadergraph@58bcb150677d)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.graph-authoring@1.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.collections@10fff0607388)
+    com.unity.test-framework.performance@6.6.0 (location: /Users/jen/Game Development Shit/rollaball/Prototype 1/Library/PackageCache/com.unity.test-framework.performance@b6023decb532)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Starting: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/jen/Game Development Shit/rollaball/Prototype 1
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 0s259ms
+[685/899    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.24 seconds), 1 items updated, 899 evaluated
+AssetDatabase: script compilation time: 0.810007s
+Begin MonoManager ReloadAssembly
+Total cache size 220950788
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.635 seconds
+Domain Reload Profiling: 1263ms
+	BeginReloadAssembly (220ms)
+		DisableScriptedObjects (9ms)
+		CreateAndSetChildDomain (134ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (362ms)
+		LoadAssemblies (168ms)
+		TypeCache.Refresh (116ms)
+			TypeCache.ScanAssembly (106ms)
+		AnalyzeDomain (38ms)
+			BuildScriptInfoCaches (33ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (635ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (214ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Starting new worker id: 0 with log in /Users/jen/Game Development Shit/rollaball/Prototype 1/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=ae902f2b9a5a94dccb5d694596f92703): Total: 2.937 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1378 ms
+		Asset DB Callback time: managed=27 ms, native=5 ms
+		Scripting: domain reloads=1, domain reload time=683 ms, compile time=811 ms, other=31 ms
+		Project Asset Count: scripts=1386, non-scripts=2374
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 5.750ms
+	ApplyChangesToAssetFolders: 0.253ms
+	Scan: 479.395ms
+	Collect global state as custom dependencies: 11.100ms
+	CategorizeScriptCompilationAssets: 38.186ms
+	ProcessAssetsWithTransientArtifactChanges: 54.145ms
+	CategorizeAssets: 46.805ms
+	CompileScripts: 811.136ms
+	ImportOutOfDateAssets: 643.736ms (639.798ms without children)
+		ReloadNativeAssets: 0.255ms
+		UnloadImportedAssets: 1.663ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.395ms
+		ImportSchedulerStart: 1.622ms
+	PostProcessAllAssets: 27.728ms
+		MonoPostProcessAllAssets: 27.668ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 8.875ms
+			SyncVS.PostprocessSyncProject 6.265ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.007ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.989ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.515ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.436ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.295ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.173ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.154ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.115ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.082ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.076ms
+	UnloadStreamsBegin: 1.135ms
+	PersistCurrentRevisions: 0.081ms
+	GenerateScriptTypeHashes: 1.073ms
+	GenerateScriptTypeSerializationHashes: 1.656ms
+	Untracked: 816.082ms
+
+Application.AssetDatabase Initial Refresh End
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Scanning for USB devices : 0.022ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Prototype 1
+2026-10-18 16:02:13.087 Unity[24403:78993254] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc72923630 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Challenge 1/Challenge 1.unity'
+	Deserialize:            5.885 ms
+	Integration:            16.930 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.018 ms
+	Total Operation Time:   22.837 ms
+Unloading 6630 unused Assets / (11.6 MB). Loaded Objects now: 7735.
+Memory consumption went from 264.3 MB to 252.7 MB.
+Total: 8.924542 ms (FindLiveObjects: 0.571917 ms CreateObjectMapping: 0.297417 ms MarkObjects: 5.381041 ms  DeleteObjects: 2.592209 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+2026-10-18 16:02:13.148 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.149 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.149 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.149 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.149 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.149 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.149 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.150 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.625 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.632 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.633 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.633 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.633 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.633 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.633 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:02:13.637 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+[LAYOUT] About to save layout /Users/jen/Game Development Shit/rollaball/Prototype 1/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/jen/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
+[Project] Loading completed in 6.414 seconds
+	Project init time: 				5.589 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.183 seconds
+		Asset Database init time: 		0.419 seconds
+		Global illumination init time: 	0.001 seconds
+		Assemblies load time: 			1.150 seconds
+		Unity extensions init time: 	0.027 seconds
+		Asset Database refresh time: 	2.940 seconds
+	Scene opening time: 			0.653 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1792364533673,"processId":24403,"projectLoad":6.413621667000001,"projectInit":5.589252542,"templateInit":0.0,"packageManagerInit":0.18279825,"assetDatabaseInit":0.419365333,"globalIlluminationInit":0.00133025,"assembliesLoad":1.14953825,"unityExtensionsInit":0.0267925,"assetDatabaseRefresh":2.939893708,"sceneOpening":0.653450167}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1792364533673,"processId":24403,"editorVersion":"6000.6.4f1 (12bfff696524)","branch":"6000.6/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Worker ready: AssetImportWorkerHW0 0
+GPU Resident Drawer created.
+Asset Pipeline Refresh (id=83edcd71ee3154ef894cc7d1d649a5ef): Total: 0.197 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Created GICache directory at /Users/jen/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.008s, timestamps: [6.560 - 6.569]
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "J4yUHnJq"... (expires: 2026-10-19T00:09:54Z)
+Starting new worker id: 1 with log in /Users/jen/Game Development Shit/rollaball/Prototype 1/Logs/AssetImportWorkerHW1.log
+[Worker0] Imported GUID: 052faaac586de48259a63d0c4782560b - Path: Assets/InputSystem_Actions.inputactions - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e52d98a4944dcd4cc3aceed257b214b5') in 0.06536 seconds
+[Licensing::Client] Successfully resolved entitlement details
+Worker ready: AssetImportWorkerHW1 1
+Asset Pipeline Refresh (id=fad72ac0e7b094d9792851f4b7f4b273): Total: 0.157 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+TrimDiskCacheJob: Current cache size 0mb
+2026-10-18 16:06:32.195 Unity[24403:78993254] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x12627eec0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.005 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=150f2f2e516ed4f7f8bc8c12cac39ab9): Total: 0.069 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 052faaac586de48259a63d0c4782560b - Path: Assets/InputSystem_Actions.inputactions' with importer (ScriptedImporter : Unity.InputSystem:UnityEngine.InputSystem.Editor:InputActionImporter)
+Imported 'GUID: 052faaac586de48259a63d0c4782560b' -> (Import Result ID: '35c65ad527e6d00298c931c6abff1bf6') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0072bd2358e9bd9d448778337e16313b DependenciesID=0c50b958a3daf220fa283ad854b6e288 StaticDependenciesID=69e572792b4b89ad2970b2ece23d6607 
+Asset Pipeline Refresh (id=ae5e92517500e460fa846918688a6a05): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 052faaac586de48259a63d0c4782560b - Path: Assets/InputSystem_Actions.inputactions - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '869111dea0ece5c7fa0fc8f4bab50133') in 0.01955325 seconds
+[Licensing::Client] Successfully resolved entitlement details
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+Type of instance in array does not match expected type
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Assert (bool,string)
+UnityEngine.InputSystem.InputBindingResolver:InstantiateWithParameters<UnityEngine.InputSystem.InputProcessor> (UnityEngine.InputSystem.Utilities.TypeTable,string,UnityEngine.InputSystem.InputProcessor[]&,int&,UnityEngine.InputSystem.InputActionMap,UnityEngine.InputSystem.InputBinding&) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 650)
+
+IndexOutOfRangeException while resolving binding 'Move:<Keyboard>/d[;Keyboard&Mouse]' in action map 'InputSystem_Actions (UnityEngine.InputSystem.InputActionAsset):Player'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap (UnityEngine.InputSystem.InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:434)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings () (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings (bool) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange (UnityEngine.InputSystem.InputDevice,UnityEngine.InputSystem.InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Utilities.InternedString,int,string,UnityEngine.InputSystem.Layouts.InputDeviceDescription,UnityEngine.InputSystem.InputDevice/DeviceFlags,UnityEngine.InputSystem.Utilities.InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription,bool,string,int,UnityEngine.InputSystem.InputDevice/DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs Line: 434)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at UnityEngine.InputSystem.InputBindingResolver.InstantiateWithParameters[TType] (UnityEngine.InputSystem.Utilities.TypeTable registrations, System.String namesAndParameters, TType[]& array, System.Int32& count, UnityEngine.InputSystem.InputActionMap actionMap, UnityEngine.InputSystem.InputBinding& binding) [0x00144] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650 
+  at UnityEngine.InputSystem.InputBindingResolver.AddActionMap (UnityEngine.InputSystem.InputActionMap actionMap) [0x00344] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:312 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:50)
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.InputSystem.InputBindingResolver:AddActionMap(InputActionMap) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:436)
+UnityEngine.InputSystem.InputActionMap:ResolveBindings() (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377)
+UnityEngine.InputSystem.InputActionMap:LazyResolveBindings(Boolean) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221)
+UnityEngine.InputSystem.InputActionState:OnDeviceChange(InputDevice, InputDeviceChange) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777)
+UnityEngine.InputSystem.InputManager:AddDevice(InputDevice) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448)
+UnityEngine.InputSystem.InputManager:AddDevice(InternedString, Int32, String, InputDeviceDescription, DeviceFlags, InternedString) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382)
+UnityEngine.InputSystem.InputManager:AddDevice(InputDeviceDescription, Boolean, String, Int32, DeviceFlags) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered(Int32, String) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered(Int32, String) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs Line: 124)
+
+Could not create a device for 'Xbox Wireless Controller (HID)' (exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at UnityEngine.InputSystem.InputBindingResolver.InstantiateWithParameters[TType] (UnityEngine.InputSystem.Utilities.TypeTable registrations, System.String namesAndParameters, TType[]& array, System.Int32& count, UnityEngine.InputSystem.InputActionMap actionMap, UnityEngine.InputSystem.InputBinding& binding) [0x00144] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:650 
+  at UnityEngine.InputSystem.InputBindingResolver.AddActionMap (UnityEngine.InputSystem.InputActionMap actionMap) [0x00a41] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputBindingResolver.cs:604 
+  at UnityEngine.InputSystem.InputActionMap.ResolveBindings () [0x00157] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1377 
+  at UnityEngine.InputSystem.InputActionMap.LazyResolveBindings (System.Boolean fullResolve) [0x00046] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionMap.cs:1221 
+  at UnityEngine.InputSystem.InputActionState.OnDeviceChange (UnityEngine.InputSystem.InputDevice device, UnityEngine.InputSystem.InputDeviceChange change) [0x00167] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Actions/InputActionState.cs:4777 
+  at UnityEngine.InputSystem.InputManager.AddDevice (UnityEngine.InputSystem.InputDevice device) [0x00155] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1448 
+  at UnityEngine.InputSystem.InputManager.AddDevice (UnityEngine.InputSystem.Utilities.InternedString layout, System.Int32 deviceId, System.String deviceName, UnityEngine.InputSystem.Layouts.InputDeviceDescription deviceDescription, UnityEngine.InputSystem.InputDevice+DeviceFlags deviceFlags, UnityEngine.InputSystem.Utilities.InternedString variants) [0x0006f] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1382 
+  at UnityEngine.InputSystem.InputManager.AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription description, System.Boolean throwIfNoLayoutFound, System.String deviceName, System.Int32 deviceId, UnityEngine.InputSystem.InputDevice+DeviceFlags deviceFlags) [0x0005f] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:1529 
+  at UnityEngine.InputSystem.InputManager.OnNativeDeviceDiscovered (System.Int32 deviceId, System.String deviceDescriptor) [0x000c9] in ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2776 )
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string) (at ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs:2786)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string) (at /Users/bokken/build/output/unity/unity/Modules/Input/Private/Input.cs:124)
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/InputManager.cs Line: 2786)
+
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/jen/Game Development Shit/rollaball/Prototype 1
+ExitCode: 0 Duration: 1s377ms
+[683/899    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[891/899    1s] Csc Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll (+2 others)
+[893/899    0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll, with 141 defines and 375 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[894/899    0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll, with 143 defines and 352 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[897/899    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[898/899    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+*** Tundra build success (1.34 seconds), 6 items updated, 899 evaluated
+Reloading assemblies after forced synchronous recompile.
+Total cache size 220950788
+Total cache size after purge 220950788, took 00:00:00.1582858
+Begin MonoManager ReloadAssembly
+GPU Resident Drawer disposed.
+Thread 0xc72a87000 may have been prematurely finalized
+<CFData 0xca0a0e9a0 [0x20860bf38]>{length = 6, capacity = 6, bytes = 0x50a6d8a25068}
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+2026-10-18 16:47:46.632 Unity[24403:78993254] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc4b0ae720 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.068 seconds
+Domain Reload Profiling: 1910ms
+	BeginReloadAssembly (546ms)
+		DisableScriptedObjects (120ms)
+		CreateAndSetChildDomain (253ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (242ms)
+		LoadAssemblies (109ms)
+		TypeCache.Refresh (12ms)
+		AnalyzeDomain (114ms)
+			BuildScriptInfoCaches (98ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1068ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (231ms)
+			ProcessInitializeOnLoadAttributes (217ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+		AwakeInstancesAfterBackupRestoration (325ms)
+
+Asset Pipeline Refresh (id=210c6e142cdb146a7b14e4f373182e69): Total: 4.518 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1783 ms
+		Asset DB Callback time: managed=35 ms, native=38 ms
+		Scripting: domain reloads=1, domain reload time=896 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1386, non-scripts=2374
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 0.434ms
+	ApplyChangesToAssetFolders: 0.153ms
+	Scan: 213.789ms
+	Collect global state as custom dependencies: 1.571ms
+	ProcessAssetsWithTransientArtifactChanges: 5.151ms
+	CategorizeAssets: 153.915ms
+	CompileScripts: 1.137ms
+	ImportOutOfDateAssets: 1074.816ms (1071.632ms without children)
+		CollectScriptTypesHashes: 7.908ms
+		ReloadNativeAssets: 0.804ms
+		UnloadImportedAssets: 0.877ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.388ms
+		ImportSchedulerStart: 1.089ms
+	PostProcessAllAssets: 36.278ms
+		ShaderAssetModifiedCallback 0.238ms
+		PostProcessCallbackCreateDeferredMaterials 0.209ms
+		VCAutoAddAssetPostprocess 0.131ms
+		XRBuildSystem.XRAssetImported 0.077ms
+		MonoPostProcessAllAssets: 34.775ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 8.712ms
+			SyncVS.PostprocessSyncProject 4.432ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 4.397ms
+			AssetChangedListener.OnPostprocessAllAssets 2.857ms
+			AssetPostprocessor.OnPostprocessAllAssets 1.844ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.917ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.806ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.670ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 0.665ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.444ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.380ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.356ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.330ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.287ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.280ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.276ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.176ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.165ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.138ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.132ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.129ms
+			PostProcessor.OnPostprocessAllAssets 0.125ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.119ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.107ms
+			AssetEvents.OnPostprocessAllAssets 0.105ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.066ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.065ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.064ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.064ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.056ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.056ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.053ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.053ms
+	PostAssetChangesProfiler: 34.021ms
+	PersistCurrentRevisions: 0.082ms
+	GenerateScriptTypeHashes: 5.639ms
+	GenerateScriptTypeSerializationHashes: 7.465ms
+	Untracked: 944.796ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer created.
+2026-10-18 16:47:48.644 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:47:48.647 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+Asset Pipeline Refresh (id=9cee5d56cccb9485f84288ac07fc2494): Total: 0.118 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.050 ms
+	Integration:            19.756 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   23.814 ms
+Unloading 96 unused Assets / (16.2 MB). Loaded Objects now: 8884.
+Memory consumption went from 347.1 MB to 330.9 MB.
+Total: 28.538125 ms (FindLiveObjects: 0.385584 ms CreateObjectMapping: 0.061875 ms MarkObjects: 21.856000 ms  DeleteObjects: 6.140500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer created.
+2026-10-18 16:49:24.440 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:49:24.441 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Thread 0xc4ccdf000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.358 ms
+	Integration:            12.195 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   12.562 ms
+Unloading 3 unused Assets / (250.4 KB). Loaded Objects now: 8890.
+Memory consumption went from 331.8 MB to 331.6 MB.
+Total: 19.193542 ms (FindLiveObjects: 0.363750 ms CreateObjectMapping: 0.102875 ms MarkObjects: 18.615291 ms  DeleteObjects: 0.023709 ms)
+
+GPU Resident Drawer created.
+2026-10-18 16:49:29.282 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:49:29.288 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/jen/Game Development Shit/rollaball/Prototype 1
+ExitCode: 0 Duration: 0s425ms
+[683/899    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[891/899    0s] Csc Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll (+2 others)
+[893/899    0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll, with 143 defines and 352 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[894/899    0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll, with 141 defines and 375 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[897/899    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[898/899    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+*** Tundra build success (0.41 seconds), 6 items updated, 899 evaluated
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+GPU Resident Drawer disposed.
+Total cache size 220950788
+Total cache size after purge 220950788, took 00:00:00.2275490
+Thread 0xc4ed17000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+2026-10-18 16:54:11.535 Unity[24403:78993254] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x110676e20 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.908 seconds
+Domain Reload Profiling: 1610ms
+	BeginReloadAssembly (409ms)
+		DisableScriptedObjects (59ms)
+		CreateAndSetChildDomain (212ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (248ms)
+		LoadAssemblies (103ms)
+		TypeCache.Refresh (9ms)
+		AnalyzeDomain (113ms)
+			BuildScriptInfoCaches (98ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (909ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (198ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (307ms)
+
+Asset Pipeline Refresh (id=ba4f55d4c9dfd4a37b2d336fc8ff6627): Total: 2.930 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1376 ms
+		Asset DB Callback time: managed=35 ms, native=20 ms
+		Scripting: domain reloads=1, domain reload time=779 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1386, non-scripts=2374
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 0.412ms
+	ApplyChangesToAssetFolders: 0.241ms
+	Scan: 226.046ms
+	Collect global state as custom dependencies: 2.923ms
+	ProcessAssetsWithTransientArtifactChanges: 2.493ms
+	CategorizeAssets: 36.696ms
+	CompileScripts: 1.047ms
+	ImportOutOfDateAssets: 913.586ms (912.195ms without children)
+		CollectScriptTypesHashes: 0.906ms
+		ReloadNativeAssets: 0.572ms
+		UnloadImportedAssets: 0.131ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.363ms
+		ImportSchedulerStart: 0.310ms
+	PostProcessAllAssets: 34.581ms
+		XRBuildSystem.XRAssetImported 0.083ms
+		MonoPostProcessAllAssets: 34.228ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 8.162ms
+			SyncVS.PostprocessSyncProject 4.299ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 3.898ms
+			AssetChangedListener.OnPostprocessAllAssets 2.937ms
+			AssetPostprocessor.OnPostprocessAllAssets 1.794ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.998ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.887ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.686ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 0.676ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.463ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.377ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.366ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.301ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.298ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.283ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.278ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.183ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.164ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.164ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.158ms
+			PostProcessor.OnPostprocessAllAssets 0.137ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.132ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.129ms
+			AssetEvents.OnPostprocessAllAssets 0.101ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.098ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.082ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.074ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.068ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.065ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.064ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.063ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.060ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.059ms
+	PostAssetChangesProfiler: 17.378ms
+	PersistCurrentRevisions: 0.080ms
+	GenerateScriptTypeHashes: 1.229ms
+	GenerateScriptTypeSerializationHashes: 2.198ms
+	Untracked: 810.704ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.659 ms
+	Integration:            16.507 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   19.171 ms
+Unloading 16 unused Assets / (9.1 KB). Loaded Objects now: 8902.
+Memory consumption went from 334.6 MB to 334.6 MB.
+Total: 21.254458 ms (FindLiveObjects: 0.377334 ms CreateObjectMapping: 0.144416 ms MarkObjects: 20.560959 ms  DeleteObjects: 0.084667 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer created.
+Asset Pipeline Refresh (id=bdd62e24c217e46a5ad4ea5539dbcb08): Total: 0.097 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=be7e4f9f05ad944b09e22a67cdc7fef8): Total: 0.077 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+2026-10-18 16:54:48.924 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:54:48.926 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:54:49.035 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:54:49.037 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Thread 0xc4cec7000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.349 ms
+	Integration:            13.025 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   13.382 ms
+Unloading 4 unused Assets / (282.8 KB). Loaded Objects now: 8984.
+Memory consumption went from 340.2 MB to 340.0 MB.
+Total: 20.003292 ms (FindLiveObjects: 0.359041 ms CreateObjectMapping: 0.062334 ms MarkObjects: 19.472916 ms  DeleteObjects: 0.020333 ms)
+
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+2026-10-18 16:54:59.208 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:54:59.209 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Thread 0xc4d99b000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.329 ms
+	Integration:            12.298 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   12.636 ms
+Unloading 4 unused Assets / (334.3 KB). Loaded Objects now: 8996.
+Memory consumption went from 341.4 MB to 341.1 MB.
+Total: 19.659375 ms (FindLiveObjects: 0.373250 ms CreateObjectMapping: 0.057250 ms MarkObjects: 19.117333 ms  DeleteObjects: 0.021542 ms)
+
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+Thread 0xc493cf000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.661 ms
+	Integration:            12.495 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   13.164 ms
+Unloading 4 unused Assets / (263.8 KB). Loaded Objects now: 9008.
+Memory consumption went from 345.4 MB to 345.1 MB.
+Total: 19.926583 ms (FindLiveObjects: 0.370917 ms CreateObjectMapping: 0.056292 ms MarkObjects: 19.389791 ms  DeleteObjects: 0.020666 ms)
+
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+Thread 0xc71013000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.317 ms
+	Integration:            12.627 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   12.952 ms
+Unloading 4 unused Assets / (341.5 KB). Loaded Objects now: 9020.
+Memory consumption went from 348.5 MB to 348.1 MB.
+Total: 20.793833 ms (FindLiveObjects: 0.424375 ms CreateObjectMapping: 0.096417 ms MarkObjects: 20.153208 ms  DeleteObjects: 0.024166 ms)
+
+GPU Resident Drawer created.
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+2026-10-18 16:55:37.123 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:55:37.124 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Thread 0xc4d59b000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.596 ms
+	Integration:            15.299 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   15.905 ms
+Unloading 4 unused Assets / (363.0 KB). Loaded Objects now: 9032.
+Memory consumption went from 355.2 MB to 354.9 MB.
+Total: 21.938875 ms (FindLiveObjects: 0.391125 ms CreateObjectMapping: 0.064250 ms MarkObjects: 21.365459 ms  DeleteObjects: 0.021250 ms)
+
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+Thread 0xc4bb1f000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.495 ms
+	Integration:            17.527 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   18.033 ms
+Unloading 4 unused Assets / (312.2 KB). Loaded Objects now: 9044.
+Memory consumption went from 357.8 MB to 357.5 MB.
+Total: 24.496542 ms (FindLiveObjects: 0.419250 ms CreateObjectMapping: 0.071625 ms MarkObjects: 23.862209 ms  DeleteObjects: 0.032291 ms)
+
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+2026-10-18 16:56:17.065 Unity[24403:78993254] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xca2b497b0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Thread 0xc4ed33000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.477 ms
+	Integration:            17.643 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   18.131 ms
+Unloading 4 unused Assets / (344.2 KB). Loaded Objects now: 9056.
+Memory consumption went from 361.2 MB to 360.9 MB.
+Total: 24.482333 ms (FindLiveObjects: 0.424500 ms CreateObjectMapping: 0.070958 ms MarkObjects: 23.848000 ms  DeleteObjects: 0.027125 ms)
+
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+Thread 0xc4e1e3000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+LightingSettings: switching bake backend from 2 to 1.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.430 ms
+	Integration:            16.863 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   17.303 ms
+Unloading 4 unused Assets / (338.1 KB). Loaded Objects now: 9068.
+Memory consumption went from 363.6 MB to 363.3 MB.
+Total: 22.993125 ms (FindLiveObjects: 0.410667 ms CreateObjectMapping: 0.071958 ms MarkObjects: 22.380292 ms  DeleteObjects: 0.024959 ms)
+
+GPU Resident Drawer created.
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+2026-10-18 16:56:47.319 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:56:47.320 Unity[24403:78993254] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-10-18 16:56:50.642 Unity[24403:78993254] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46556380 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=eea3911a40b934904bbb2f432901bace): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b6cc3e14dbc3342c8ab192babf679766 - Path: Assets/Challenge 1/Challenge 1.unity' with importer (DefaultImporter)
+Imported 'GUID: b6cc3e14dbc3342c8ab192babf679766' -> (Import Result ID: 'd943cf45eeecd6ee4ba0e8ab4a59c97b') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a2f4c99f994fffcf766c42e10e1596c3 DependenciesID=4e2fef5fefe6212c2dd4d2cd35784ad4 StaticDependenciesID=1b2ea944756878d7cf03436e179e807a 
+Asset Pipeline Refresh (id=00b24cdacaed04c1fb75ca1f3c8595b1): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=311bf5e721e9148b090d89e39bdf5a4b): Total: 0.157 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "9Lv7a7R7"... (expires: 2026-10-19T02:09:45Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
